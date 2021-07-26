@@ -1,4 +1,4 @@
-# simple-bookmark-chrome-extension
+# A simple bookmark extension
 This project is to build a simple bookmark extension for Chrome browser using javascript, html and css
 
 ### Description of the extension
