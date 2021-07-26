@@ -12,6 +12,7 @@ The interface of extension looks like this when you use it
 * If you want to delete all items of the list, double click on DELETE ALL button.
 
 A image of extension when it is in use!
+
 ![Image of extension when it is in use](https://i.ibb.co/n7mL40k/pic-of-app2.png)
 
 ### How to deploy this extension
