@@ -1,7 +1,4 @@
 # A simple bookmark extension
-This project is to build a simple bookmark extension for Chrome browser using javascript, html and css
-
-### Description of the extension
 It is chrome extension. When you deploy it, you can see it in the list of extensions in your chrome browser.
 The interface of extension looks like this when you use it
 
@@ -14,6 +11,10 @@ The interface of extension looks like this when you use it
 A image of extension when it is in use!
 
 ![Image of extension when it is in use](https://i.ibb.co/n7mL40k/pic-of-app2.png)
+
+# A personal Dashboard extension
+This project is to build a extension for Chrome browser, whenever the user open new tab of Chrome, a personal dashboard will appear with some information
+![Personal Dashboard](https://i.ibb.co/6v8sLKF/demo.png)
 
 ### How to deploy this extension
 * Download all files in this repo
