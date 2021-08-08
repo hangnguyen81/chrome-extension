@@ -6,8 +6,8 @@ const weather = document.getElementById('weather')
 // display date and time of current day
 function getCurrentTime(){
     const today = new Date()
-    const days = new Array('Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday')
-    const currentDay = days[today.getDay()-1]
+    const days = new Array('Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday')
+    const currentDay = days[today.getDay()]
     const months = new Array('January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December')
     const currentMonth = months[today.getMonth()]
     const currentTime = today.toLocaleTimeString("en-us", {timeStyle: "short"})
