@@ -29,7 +29,6 @@ function render(leads){
 inputBtn.addEventListener('click', function(){
     myLeads.push(inputEl.value)
     inputEl.value=''
-    // Save the myLeads array to localStorage - remember JSON.stringify()
     localStorage.setItem('myLeads',JSON.stringify(myLeads))
     render(myLeads)
 })
